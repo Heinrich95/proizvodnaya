@@ -21,6 +21,9 @@ public:
     Function(const Function& other);
     // Деструктор
     ~Function();
+
+    Function operator+(const Function& other) const;
+
     // отображение функции
     void display() const;
 };

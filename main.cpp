@@ -23,6 +23,12 @@ int main() {
     Function f4("Cubic Function", 3, { {0.0, 0.0}, {1.0, 1.0}, {2.0, 8.0}, {3.0, 27.0} });
     f4.display();
 
+    // Проверка перегрузки оператора +
+    cout << "\nСложение f2 и f4\n";
+    Function f5 = f2 + f4;
+    f5.display();
+
+
     cout << "\nЗавершение программы.\n";
     return 0;
 }

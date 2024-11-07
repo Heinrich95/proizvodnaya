@@ -1,14 +1,14 @@
 # depslib dependency file v1.0
-1728582280 source:c:\users\genat\onedrive\Рабочий стол\k\function.cpp
+1731020791 source:c:\users\genat\onedrive\Рабочий стол\k\function.cpp
 	"function.h"
 	<iostream>
 
-1728582120 c:\users\genat\onedrive\Рабочий стол\k\function.h
+1731020840 c:\users\genat\onedrive\Рабочий стол\k\function.h
 	<string>
 	<vector>
 	<utility>
 
-1728582200 source:c:\users\genat\onedrive\Рабочий стол\k\main.cpp
+1731020943 source:c:\users\genat\onedrive\Рабочий стол\k\main.cpp
 	<iostream>
 	"Function.h"
 
